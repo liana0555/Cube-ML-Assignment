@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project explores and compares classical **search algorithms** — DFS, BFS, and A* — for solving a simplified **2x2x2 Rubik’s Cube**. It was created as part of a university assignment to understand how these algorithms behave in real puzzle-solving tasks.
+This project explores and compares classical **search algorithms** — DFS, BFS, and A* for solving a simplified **2x2x2 Rubik’s Cube**. It was created as part of a university assignment to understand how these algorithms behave in real puzzle-solving tasks.
 
 The project focuses on:
 - Understanding algorithm behavior.
