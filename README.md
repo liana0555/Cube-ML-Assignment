@@ -25,13 +25,19 @@ The project focuses on:
 ---
 
 ## Structure
-├── main.py # Entry point — choose algorithm & run
-├── dfs.py # Depth-First Search algorithm
-├── bfs.py # Breadth-First Search algorithm
-├── astar.py # A* Search algorithm
-├── cube.py # Cube model, moves, scrambling, visualization
-├── utils.py # Timer function for performance measurement
-└── README.md # This documentation
+ main.py # Entry point — choose algorithm & run
+
+dfs.py # Depth-First Search algorithm
+
+bfs.py # Breadth-First Search algorithm
+
+ astar.py # A* Search algorithm
+ 
+ cube.py # Cube model, moves, scrambling, visualization
+ 
+utils.py # Timer function for performance measurement
+
+README.md # This documentation
 
 ---
 
